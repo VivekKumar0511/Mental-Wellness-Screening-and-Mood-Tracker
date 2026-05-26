@@ -1,0 +1,10 @@
+flask
+flask-cors
+pymongo
+bcrypt
+pyjwt
+scikit-learn
+numpy
+pandas
+joblib
+python-dotenv
